@@ -9,7 +9,7 @@ const carrinho = {
         titulo: "Detalhes do Carrinho",
     },
     detalhes: {
-        nome: "Carrinho de ",
+        nome: "Carrinho de Compras",
         nomeFazenda: "Etec Cidade do Livro",
         descricao: "Uma cesta com produtos selecionados cuidadosamente da fazendo direto para a sua cozinha.",
         preco: "R$ 40,00",
